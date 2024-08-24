@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_8.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_activity_shopping_details.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\activity_shopping_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_lg_fridge.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\lg_fridge.jpg"
+    },
+    {
+        "merged": "com.example.shoppingapp-debug-35:/layout_activity_shopping_details.xml.flat",
+        "source": "com.example.shoppingapp-main-37:/layout/activity_shopping_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_6.jpeg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_cart.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_1.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_boat_buds.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\boat_buds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_item_view.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_boat_powerbank.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\boat_powerbank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_4.jpeg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_addtocart.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\addtocart.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_samsung_fridge.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\samsung_fridge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_back.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_mi_powerbank.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\mi_powerbank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_shopsy1.jpeg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\shopsy1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_hp_laptop.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\hp_laptop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_titan.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\titan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_armani.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\armani.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_delete.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_3.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_activity_addto_cart.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\activity_addto_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_7.jpeg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_product_items.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\product_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_samsung_black.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\samsung_black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_jbl_buds.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\jbl_buds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_2.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_9.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_search_box.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_asus_laptop.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\asus_laptop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_shopsy.jpeg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\shopsy.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_livesale_5.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\livesale_5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\drawable_iphone_black.jpg.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\drawable\\iphone_black.jpg"
+    },
+    {
+        "merged": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yuvra\\.gradle\\daemon\\8.6\\com.example.shoppingapp-main-37:\\layout\\activity_main.xml"
+    }
+]

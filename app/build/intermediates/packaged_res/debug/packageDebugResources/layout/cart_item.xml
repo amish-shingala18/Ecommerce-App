@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/clCart"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/imgCartProduct"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:paddingTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/iphone_black" />
+
+    <TextView
+        android:id="@+id/txtCartPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:text="₹79,999"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/imgCartProduct"
+        app:layout_constraintTop_toBottomOf="@+id/txtProduct" />
+
+    <TextView
+        android:id="@+id/txtDisCartPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:text="₹71,000"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/txtCartPrice"
+        app:layout_constraintTop_toBottomOf="@+id/txtProduct" />
+
+    <TextView
+        android:id="@+id/txtProduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="Iphone 15"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/imgCartProduct"
+        app:layout_constraintEnd_toEndOf="@+id/txtDisCartPrice"
+        app:layout_constraintHorizontal_bias="0.46"
+        app:layout_constraintStart_toStartOf="@+id/txtCartPrice"
+        app:layout_constraintTop_toTopOf="@+id/imgCartProduct" />
+
+    <TextView
+        android:id="@+id/txtminus"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@color/border"
+        android:gravity="center"
+        android:text="—"
+        app:layout_constraintBottom_toBottomOf="@+id/txtCount"
+        app:layout_constraintEnd_toStartOf="@+id/txtCount"
+        app:layout_constraintTop_toTopOf="@+id/txtCount"
+        app:layout_constraintVertical_bias="0.0" />
+
+    k+<TextView
+        android:id="@+id/txtCount"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text=""
+        app:layout_constraintEnd_toEndOf="@+id/imgCartProduct"
+        app:layout_constraintHorizontal_bias="0.49"
+        app:layout_constraintStart_toStartOf="@+id/imgCartProduct"
+        app:layout_constraintTop_toBottomOf="@+id/imgCartProduct" />
+
+    <TextView
+        android:id="@+id/txtPlus"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@color/border"
+        android:gravity="center"
+        android:text="+"
+        app:layout_constraintBottom_toBottomOf="@+id/txtCount"
+        app:layout_constraintStart_toEndOf="@+id/txtCount"
+        app:layout_constraintTop_toTopOf="@+id/txtCount"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txtDeleteCart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/item_view"
+        android:drawableStart="@drawable/delete"
+        android:gravity="center"
+        android:padding="6dp"
+        android:text="Delete"
+        app:layout_constraintBottom_toBottomOf="@+id/txtCount"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txtCount" />
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="15dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtDeleteCart" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

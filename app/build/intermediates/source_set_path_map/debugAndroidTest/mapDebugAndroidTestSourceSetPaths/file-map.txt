@@ -1,0 +1,6 @@
+com.example.shoppingapp.test.app-annotation-experimental-1.4.0-0 C:\Users\yuvra\.gradle\caches\transforms-4\ca840ccaeba569a4205f01bcfba1a037\transformed\annotation-experimental-1.4.0\res
+com.example.shoppingapp.test.app-core-1.5.0-1 C:\Users\yuvra\.gradle\caches\transforms-4\ed8e81c2320459903cc26fc1a03d219e\transformed\core-1.5.0\res
+com.example.shoppingapp.test.app-androidTest-2 C:\Users\yuvra\AndroidStudioProjects\ShoppingApp\app\build\generated\res\resValues\androidTest\debug
+com.example.shoppingapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\yuvra\AndroidStudioProjects\ShoppingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.shoppingapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\yuvra\AndroidStudioProjects\ShoppingApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.shoppingapp.test.app-debugAndroidTest-5 C:\Users\yuvra\AndroidStudioProjects\ShoppingApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
